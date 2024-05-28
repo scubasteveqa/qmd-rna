@@ -3,3 +3,4 @@ pandas
 pyodbc
 nbformat
 jupyter
+os
